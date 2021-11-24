@@ -11,10 +11,10 @@
       django-admin startproject "projectname"
       django-admin startapp "appname"
       pyhton manage.py runserver
-  
-  
-  
-  
+The  Result :
+
+  ![alt first](https://github.com/amira-haouet/Python-apps-Django//blob/main/media/initiation.PNG?raw=true)
+
 
   </ol>
   
