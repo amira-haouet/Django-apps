@@ -4,15 +4,25 @@
   <li> First app : initiation a django </li>
   
     How to get Django:
-     - pip install Django 
-     - import django
-     - django.VERSION
-     -
+  <!---install django-->
+      pip install Django 
+      import django
+      django.VERSION
+      django-admin startproject "projectname"
+      django-admin startapp "appname"
+      pyhton manage.py runserver
   
   
   
-  <li></li>
-  </ol>
+  
 
+  </ol>
+  
+  #Reference 
+  <div>
+  https://www.djangoproject.com/download/
+  <br>
+  https://docs.djangoproject.com/en/3.2/
+  <div>
 
 
