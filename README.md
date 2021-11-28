@@ -1,7 +1,7 @@
 # Python-apps-Django
 
 <ol>
-  <li> First app : initiation a django </li>
+  <li> First app : initiation to django </li>
   
     How to get Django:
   <!---install django-->
