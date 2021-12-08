@@ -83,7 +83,9 @@ DATABASES = {
         #'NAME': BASE_DIR / 'db.sqlite3', => change database name 
         'NAME': 'StudentDB',
         # if u have password and username put it here 
-        'USER':""
+        'USER':'root',
+        'PASSWORD':'root',
+        'HOST': 'localhost'
   
         
     }
