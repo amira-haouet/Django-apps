@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    #add all apps here in settings
+    #add all apps here in settings.py
     'student_register'
 ]
 
