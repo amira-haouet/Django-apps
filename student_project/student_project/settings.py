@@ -79,14 +79,15 @@ DATABASES = {
     'default': {
         #change sqlite to postgresql
         #'ENGINE': 'django.db.backends.sqlite3',
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         #'NAME': BASE_DIR / 'db.sqlite3', => change database name 
         'NAME': 'StudentDB',
         # if u have password and username put it here 
         'USER':'root',
         'PASSWORD':'root',
-        'HOST': 'localhost'
-  
+        'HOST': 'localhost',
+        'PORT': '5432'
+
         
     }
 }
